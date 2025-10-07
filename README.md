@@ -1,6 +1,6 @@
 # 🖥️ ELE3021 - Operating System Projects
 
-**한양대학교 전자공학과 운영체제 과목 프로젝트 모음**
+**한양대학교 컴퓨터소프트웨어학부 운영체제 과목 프로젝트 모음**
 
 [![C](https://img.shields.io/badge/C-Programming-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Operating System](https://img.shields.io/badge/OS-xv6-green.svg)](https://pdos.csail.mit.edu/6.828/2020/xv6.html)
@@ -19,7 +19,7 @@
 
 ## 🎯 프로젝트 개요
 
-본 저장소는 **한양대학교 전자공학과 ELE3021 운영체제** 과목에서 수행한 3개의 프로젝트를 포함합니다. 각 프로젝트는 xv6 운영체제를 기반으로 하여 운영체제의 핵심 개념들을 실습을 통해 학습합니다.
+본 저장소는 **한양대학교 컴퓨터소프트웨어학부 ELE3021 운영체제** 과목에서 수행한 3개의 프로젝트를 포함합니다. 각 프로젝트는 xv6 운영체제를 기반으로 하여 운영체제의 핵심 개념들을 실습을 통해 학습합니다.
 
 ### 학습 목표
 
@@ -314,11 +314,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **GitHub**: [@wondongee](https://github.com/wondongee)
 - **이메일**: wondongee@example.com
-- **학교**: 한양대학교 전자공학과
+- **학교**: 한양대학교 컴퓨터소프트웨어학부
 
 ## 🙏 감사의 말
 
-- 한양대학교 전자공학과 교수님들께 감사드립니다
+- 한양대학교 컴퓨터소프트웨어학부 교수님들께 감사드립니다
 - MIT 6.828 강의 자료에 감사드립니다
 - xv6 개발팀에게 감사드립니다
 
